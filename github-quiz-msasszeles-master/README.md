@@ -1,9 +1,13 @@
 # Your personal details
-### First name: Márti 
-```Add first name
-### Last name: Sás-Szeles
-```Add last name
+### First name: Márti
+```bash
+Add first name
+```
 
+### Last name: Sás-Szeles
+```bash
+Add last name
+```
 
 ## 1. Which of the descriptions below accurately describes Git?
 - Type of corporate repository
